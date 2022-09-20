@@ -6,3 +6,5 @@
 
 3. Презентация: https://disk.yandex.ru/i/RnP1P3nMHlsIXg
 
+4. SQL-запросы
+
